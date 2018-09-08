@@ -44,6 +44,11 @@ li {
     width: 0.5em;
   }
 
+.main li{
+  background-color:#ffffff;
+  color:#000000;
+}
+
   ul{
     padding:0px;
   }
