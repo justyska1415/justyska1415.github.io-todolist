@@ -44,9 +44,19 @@ li {
     width: 0.5em;
   }
 
-.main{
+.main1{
   background-color:#56c0c8;
-  color:#000000;
+  color:#ffffff;
+  padding:0.9em 1.7em;
+}
+.main2{
+  background-color:#62c856;
+  color:#ffffff;
+  padding:0.9em 1.7em;
+}
+.main3{
+  background-color:#dc918a;
+  color:#ffffff;
   padding:0.9em 1.7em;
 }
 
