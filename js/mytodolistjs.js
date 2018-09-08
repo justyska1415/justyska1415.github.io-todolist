@@ -1,4 +1,4 @@
-let li = document.querySelector'li');
+let li = document.querySelector('li');
 let clikedLi = document.getElementsByClassName('done');
 let list = document.querySelector('ul');
 
