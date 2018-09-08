@@ -1,6 +1,6 @@
-let li = document.querySelectorAll('li');
+let li = document.querySelector'li');
 let clikedLi = document.getElementsByClassName('done');
-let list = document.querySelectorAll('ul');
+let list = document.querySelector('ul');
 
 list.addEventListener('click', function (ev) {
   if (ev.target.tagName === 'LI') {
